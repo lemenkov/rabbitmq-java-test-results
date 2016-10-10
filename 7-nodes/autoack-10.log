@@ -1,0 +1,91 @@
+starting consumer #0
+starting consumer #1
+starting consumer #2
+starting consumer #3
+starting consumer #4
+starting consumer #5
+starting consumer #6
+starting consumer #7
+starting consumer #8
+starting consumer #9
+starting producer #0
+starting producer #1
+starting producer #2
+starting producer #3
+starting producer #4
+starting producer #5
+starting producer #6
+starting producer #7
+starting producer #8
+starting producer #9
+time: 1.000s, sent: 34910 msg/s, received: 82153 msg/s, min/avg/max latency: 5221/361065/739406 microseconds
+time: 2.000s, sent: 33895 msg/s, received: 104046 msg/s, min/avg/max latency: 572078/1006546/1440010 microseconds
+time: 3.000s, sent: 16524 msg/s, received: 104078 msg/s, min/avg/max latency: 1212783/1719778/2246687 microseconds
+time: 4.000s, sent: 15668 msg/s, received: 104074 msg/s, min/avg/max latency: 1743277/2472297/3034891 microseconds
+time: 5.000s, sent: 19625 msg/s, received: 104082 msg/s, min/avg/max latency: 1863836/3189359/3816951 microseconds
+time: 6.000s, sent: 12327 msg/s, received: 103822 msg/s, min/avg/max latency: 1570054/3709954/4717721 microseconds
+time: 7.000s, sent: 14361 msg/s, received: 104054 msg/s, min/avg/max latency: 1446122/4518966/5565393 microseconds
+time: 8.000s, sent: 24531 msg/s, received: 104080 msg/s, min/avg/max latency: 1098046/4817803/6218732 microseconds
+time: 9.000s, sent: 18488 msg/s, received: 104074 msg/s, min/avg/max latency: 1082679/5074929/6733899 microseconds
+time: 10.000s, sent: 24893 msg/s, received: 104065 msg/s, min/avg/max latency: 1383748/5394559/7043647 microseconds
+time: 11.000s, sent: 18188 msg/s, received: 104034 msg/s, min/avg/max latency: 1414991/5752815/7258212 microseconds
+time: 12.000s, sent: 19446 msg/s, received: 104124 msg/s, min/avg/max latency: 1607681/6308895/7802513 microseconds
+time: 13.000s, sent: 20227 msg/s, received: 104057 msg/s, min/avg/max latency: 1761023/6732626/8520387 microseconds
+time: 14.000s, sent: 12862 msg/s, received: 103730 msg/s, min/avg/max latency: 1676343/6971539/9240758 microseconds
+time: 15.000s, sent: 21482 msg/s, received: 104058 msg/s, min/avg/max latency: 2057426/7609267/9683920 microseconds
+time: 16.000s, sent: 19624 msg/s, received: 104069 msg/s, min/avg/max latency: 2646018/7965407/10111339 microseconds
+time: 17.000s, sent: 18730 msg/s, received: 104066 msg/s, min/avg/max latency: 3144156/8383946/10263473 microseconds
+time: 18.000s, sent: 13163 msg/s, received: 104075 msg/s, min/avg/max latency: 3640751/8856915/10923121 microseconds
+time: 19.000s, sent: 14061 msg/s, received: 104040 msg/s, min/avg/max latency: 4126381/9503892/11646316 microseconds
+time: 20.000s, sent: 14959 msg/s, received: 104094 msg/s, min/avg/max latency: 4769831/9943438/12147440 microseconds
+time: 21.000s, sent: 14419 msg/s, received: 104079 msg/s, min/avg/max latency: 5632113/10380676/12909323 microseconds
+time: 22.000s, sent: 16276 msg/s, received: 104031 msg/s, min/avg/max latency: 6094745/10715524/13695472 microseconds
+time: 23.000s, sent: 13404 msg/s, received: 104075 msg/s, min/avg/max latency: 6861024/11208298/14274080 microseconds
+time: 24.000s, sent: 14548 msg/s, received: 104080 msg/s, min/avg/max latency: 7443102/11571285/14902923 microseconds
+time: 25.000s, sent: 15607 msg/s, received: 104092 msg/s, min/avg/max latency: 8033767/11979510/15691359 microseconds
+time: 26.000s, sent: 21181 msg/s, received: 104078 msg/s, min/avg/max latency: 8474455/12455281/16315261 microseconds
+time: 27.000s, sent: 20586 msg/s, received: 103926 msg/s, min/avg/max latency: 8922676/12745549/16878163 microseconds
+time: 28.000s, sent: 19624 msg/s, received: 103808 msg/s, min/avg/max latency: 9001175/13394924/17382394 microseconds
+time: 29.000s, sent: 19565 msg/s, received: 104064 msg/s, min/avg/max latency: 8728257/13759669/17831016 microseconds
+time: 30.000s, sent: 15379 msg/s, received: 104085 msg/s, min/avg/max latency: 8770601/14079436/18570001 microseconds
+time: 31.000s, sent: 15198 msg/s, received: 104055 msg/s, min/avg/max latency: 8619498/14515648/19002324 microseconds
+time: 32.000s, sent: 13880 msg/s, received: 104054 msg/s, min/avg/max latency: 8261616/14694127/19716099 microseconds
+time: 33.000s, sent: 17952 msg/s, received: 103897 msg/s, min/avg/max latency: 8380151/15305973/20340287 microseconds
+time: 34.000s, sent: 18968 msg/s, received: 104077 msg/s, min/avg/max latency: 8316850/15654835/20689435 microseconds
+time: 35.000s, sent: 12744 msg/s, received: 104085 msg/s, min/avg/max latency: 8616176/16238169/21366153 microseconds
+time: 36.000s, sent: 13881 msg/s, received: 100195 msg/s, min/avg/max latency: 8778434/17444265/22362424 microseconds
+time: 37.000s, sent: 14660 msg/s, received: 104085 msg/s, min/avg/max latency: 9490443/16754598/22652121 microseconds
+time: 38.000s, sent: 13045 msg/s, received: 104078 msg/s, min/avg/max latency: 10123250/16922276/23137968 microseconds
+time: 39.000s, sent: 9932 msg/s, received: 104092 msg/s, min/avg/max latency: 10654083/17734777/23439954 microseconds
+time: 40.000s, sent: 11069 msg/s, received: 104072 msg/s, min/avg/max latency: 11228629/18163024/23870497 microseconds
+time: 41.000s, sent: 18908 msg/s, received: 103999 msg/s, min/avg/max latency: 11823141/18485769/24182399 microseconds
+time: 42.000s, sent: 8678 msg/s, received: 104134 msg/s, min/avg/max latency: 12533227/18747798/24242460 microseconds
+time: 43.000s, sent: 18068 msg/s, received: 104059 msg/s, min/avg/max latency: 13119263/19086378/24389857 microseconds
+time: 44.000s, sent: 7658 msg/s, received: 102058 msg/s, min/avg/max latency: 13578002/18773423/24713793 microseconds
+time: 45.000s, sent: 8676 msg/s, received: 105877 msg/s, min/avg/max latency: 13733157/18400901/25375520 microseconds
+time: 46.000s, sent: 12625 msg/s, received: 104042 msg/s, min/avg/max latency: 12945657/18299359/25659141 microseconds
+time: 47.000s, sent: 13345 msg/s, received: 104092 msg/s, min/avg/max latency: 12307205/18634877/26359340 microseconds
+time: 48.000s, sent: 16035 msg/s, received: 104065 msg/s, min/avg/max latency: 11393907/19074691/26861856 microseconds
+time: 49.000s, sent: 11367 msg/s, received: 104080 msg/s, min/avg/max latency: 10396165/19229938/27465593 microseconds
+time: 50.000s, sent: 14959 msg/s, received: 104088 msg/s, min/avg/max latency: 9502139/19091586/27753208 microseconds
+time: 51.000s, sent: 15977 msg/s, received: 104076 msg/s, min/avg/max latency: 8562688/19726177/28351434 microseconds
+time: 52.000s, sent: 17000 msg/s, received: 104048 msg/s, min/avg/max latency: 8103044/20316611/28894940 microseconds
+time: 53.000s, sent: 11841 msg/s, received: 103982 msg/s, min/avg/max latency: 7058698/20184665/29094008 microseconds
+time: 54.000s, sent: 20403 msg/s, received: 104070 msg/s, min/avg/max latency: 7208471/22041595/29621519 microseconds
+time: 55.000s, sent: 13044 msg/s, received: 103881 msg/s, min/avg/max latency: 6815166/21539160/30284656 microseconds
+time: 56.000s, sent: 13282 msg/s, received: 104069 msg/s, min/avg/max latency: 6606738/21572947/30585705 microseconds
+time: 57.000s, sent: 18670 msg/s, received: 104047 msg/s, min/avg/max latency: 6417836/21887372/31206190 microseconds
+time: 58.000s, sent: 11548 msg/s, received: 104086 msg/s, min/avg/max latency: 6227676/22230603/31804774 microseconds
+time: 59.000s, sent: 17531 msg/s, received: 104076 msg/s, min/avg/max latency: 6235487/22039330/32284203 microseconds
+time: 60.000s, sent: 10293 msg/s, received: 103357 msg/s, min/avg/max latency: 6011702/22240434/32858519 microseconds
+time: 61.000s, sent: 5688 msg/s, received: 104037 msg/s, min/avg/max latency: 6046820/23470714/33665713 microseconds
+time: 62.000s, sent: 6.0 msg/s, received: 104054 msg/s, min/avg/max latency: 5622503/23597184/34219320 microseconds
+time: 63.000s, sent: 0 msg/s, received: 104093 msg/s, min/avg/max latency: 5433418/24046871/34856265 microseconds
+time: 64.000s, sent: 0 msg/s, received: 104089 msg/s, min/avg/max latency: 5464325/24733784/35418160 microseconds
+time: 65.000s, sent: 0 msg/s, received: 100397 msg/s, min/avg/max latency: 5677471/25499833/35974692 microseconds
+time: 66.000s, sent: 0 msg/s, received: 101633 msg/s, min/avg/max latency: 5154010/27854542/36301936 microseconds
+time: 67.000s, sent: 0 msg/s, received: 104079 msg/s, min/avg/max latency: 5806152/31849743/36266712 microseconds
+time: 68.000s, sent: 0 msg/s, received: 100821 msg/s, min/avg/max latency: 21852972/31177217/35717732 microseconds
+time: 69.000s, sent: 0 msg/s, received: 97978 msg/s, min/avg/max latency: 21083442/30667281/35096134 microseconds
+sending rate avg: 14059 msg/s
+recving rate avg: 102316 msg/s

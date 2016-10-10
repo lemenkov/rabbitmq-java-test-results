@@ -1,0 +1,116 @@
+starting consumer #0
+starting consumer #1
+starting consumer #2
+starting consumer #3
+starting consumer #4
+starting consumer #5
+starting consumer #6
+starting consumer #7
+starting consumer #8
+starting consumer #9
+starting consumer #10
+starting consumer #11
+starting consumer #12
+starting consumer #13
+starting consumer #14
+starting consumer #15
+starting consumer #16
+starting consumer #17
+starting consumer #18
+starting consumer #19
+starting producer #0
+starting producer #1
+starting producer #2
+starting producer #3
+starting producer #4
+starting producer #5
+starting producer #6
+starting producer #7
+starting producer #8
+starting producer #9
+starting producer #10
+starting producer #11
+starting producer #12
+starting producer #13
+starting producer #14
+starting producer #15
+starting producer #16
+starting producer #17
+starting producer #18
+starting producer #19
+time: 1.000s, sent: 15436 msg/s, confirmed: 0 msg/s, nacked: 0 msg/s, received: 2827 msg/s, min/avg/max latency: 4375/116951/222842 microseconds
+time: 2.000s, sent: 4815 msg/s, confirmed: 541 msg/s, nacked: 0 msg/s, received: 20519 msg/s, min/avg/max latency: 350339/819977/1326030 microseconds
+time: 3.020s, sent: 222 msg/s, confirmed: 346 msg/s, nacked: 0 msg/s, received: 15009 msg/s, min/avg/max latency: 1271611/1802869/2338290 microseconds
+time: 4.020s, sent: 622 msg/s, confirmed: 966 msg/s, nacked: 0 msg/s, received: 21866 msg/s, min/avg/max latency: 2316192/2831277/3341147 microseconds
+time: 5.020s, sent: 516 msg/s, confirmed: 794 msg/s, nacked: 0 msg/s, received: 15042 msg/s, min/avg/max latency: 3263108/3839670/4344413 microseconds
+time: 6.020s, sent: 1983 msg/s, confirmed: 969 msg/s, nacked: 0 msg/s, received: 20245 msg/s, min/avg/max latency: 4259952/4823525/5344315 microseconds
+time: 7.021s, sent: 632 msg/s, confirmed: 608 msg/s, nacked: 0 msg/s, received: 15837 msg/s, min/avg/max latency: 5218654/5835553/6311389 microseconds
+time: 8.021s, sent: 1029 msg/s, confirmed: 1029 msg/s, nacked: 0 msg/s, received: 19026 msg/s, min/avg/max latency: 6243185/6755644/7341666 microseconds
+time: 9.021s, sent: 585 msg/s, confirmed: 648 msg/s, nacked: 0 msg/s, received: 14304 msg/s, min/avg/max latency: 7184212/7795179/8334105 microseconds
+time: 10.105s, sent: 489 msg/s, confirmed: 431 msg/s, nacked: 0 msg/s, received: 13901 msg/s, min/avg/max latency: 8180497/8790752/9356486 microseconds
+time: 11.105s, sent: 1652 msg/s, confirmed: 1652 msg/s, nacked: 0 msg/s, received: 20350 msg/s, min/avg/max latency: 9252616/9852299/10397552 microseconds
+time: 12.105s, sent: 265 msg/s, confirmed: 265 msg/s, nacked: 0 msg/s, received: 18340 msg/s, min/avg/max latency: 10130280/10831534/11275516 microseconds
+time: 13.105s, sent: 690 msg/s, confirmed: 690 msg/s, nacked: 0 msg/s, received: 21068 msg/s, min/avg/max latency: 11166593/11766185/12376589 microseconds
+time: 14.105s, sent: 1405 msg/s, confirmed: 1405 msg/s, nacked: 0 msg/s, received: 32714 msg/s, min/avg/max latency: 12131667/12768270/13332653 microseconds
+time: 15.105s, sent: 1128 msg/s, confirmed: 1128 msg/s, nacked: 0 msg/s, received: 20072 msg/s, min/avg/max latency: 13018864/13667387/14340894 microseconds
+time: 16.216s, sent: 578 msg/s, confirmed: 578 msg/s, nacked: 0 msg/s, received: 18143 msg/s, min/avg/max latency: 13997189/14623771/15284744 microseconds
+time: 17.217s, sent: 1158 msg/s, confirmed: 1158 msg/s, nacked: 0 msg/s, received: 20563 msg/s, min/avg/max latency: 13690661/15691660/16387977 microseconds
+time: 18.350s, sent: 949 msg/s, confirmed: 949 msg/s, nacked: 0 msg/s, received: 21278 msg/s, min/avg/max latency: 12868662/16617392/17338150 microseconds
+time: 19.350s, sent: 1422 msg/s, confirmed: 1422 msg/s, nacked: 0 msg/s, received: 20057 msg/s, min/avg/max latency: 12889787/17225750/18435894 microseconds
+time: 20.350s, sent: 567 msg/s, confirmed: 567 msg/s, nacked: 0 msg/s, received: 20997 msg/s, min/avg/max latency: 11305107/17462897/19346198 microseconds
+time: 21.350s, sent: 837 msg/s, confirmed: 837 msg/s, nacked: 0 msg/s, received: 19311 msg/s, min/avg/max latency: 11286680/17748801/20434837 microseconds
+time: 22.376s, sent: 550 msg/s, confirmed: 550 msg/s, nacked: 0 msg/s, received: 15830 msg/s, min/avg/max latency: 11494941/18101832/21297148 microseconds
+time: 23.470s, sent: 520 msg/s, confirmed: 520 msg/s, nacked: 0 msg/s, received: 15647 msg/s, min/avg/max latency: 12679029/18823494/21983560 microseconds
+time: 24.470s, sent: 1266 msg/s, confirmed: 1266 msg/s, nacked: 0 msg/s, received: 25517 msg/s, min/avg/max latency: 14138370/19403349/23333217 microseconds
+time: 25.470s, sent: 982 msg/s, confirmed: 982 msg/s, nacked: 0 msg/s, received: 25599 msg/s, min/avg/max latency: 14659888/19475286/24407956 microseconds
+time: 26.470s, sent: 930 msg/s, confirmed: 930 msg/s, nacked: 0 msg/s, received: 17392 msg/s, min/avg/max latency: 14555798/18931157/25353168 microseconds
+time: 27.470s, sent: 1878 msg/s, confirmed: 1878 msg/s, nacked: 0 msg/s, received: 25594 msg/s, min/avg/max latency: 15549445/19220826/25644989 microseconds
+time: 28.470s, sent: 1155 msg/s, confirmed: 1155 msg/s, nacked: 0 msg/s, received: 20436 msg/s, min/avg/max latency: 10700284/18061345/23346964 microseconds
+time: 29.553s, sent: 560 msg/s, confirmed: 560 msg/s, nacked: 0 msg/s, received: 16827 msg/s, min/avg/max latency: 11746304/17639441/23839824 microseconds
+time: 30.553s, sent: 799 msg/s, confirmed: 799 msg/s, nacked: 0 msg/s, received: 19925 msg/s, min/avg/max latency: 12546563/17683888/22719935 microseconds
+time: 31.553s, sent: 949 msg/s, confirmed: 949 msg/s, nacked: 0 msg/s, received: 14985 msg/s, min/avg/max latency: 13483067/17588187/21953697 microseconds
+time: 32.553s, sent: 817 msg/s, confirmed: 817 msg/s, nacked: 0 msg/s, received: 18735 msg/s, min/avg/max latency: 14482546/17790074/22873109 microseconds
+time: 33.554s, sent: 521 msg/s, confirmed: 521 msg/s, nacked: 0 msg/s, received: 19035 msg/s, min/avg/max latency: 10562639/17835319/21833818 microseconds
+time: 34.554s, sent: 1013 msg/s, confirmed: 1013 msg/s, nacked: 0 msg/s, received: 29445 msg/s, min/avg/max latency: 11371113/17806775/21527783 microseconds
+time: 35.580s, sent: 684 msg/s, confirmed: 684 msg/s, nacked: 0 msg/s, received: 19183 msg/s, min/avg/max latency: 12235788/17358285/21630463 microseconds
+time: 36.580s, sent: 1513 msg/s, confirmed: 1513 msg/s, nacked: 0 msg/s, received: 29552 msg/s, min/avg/max latency: 13202732/17440309/21624578 microseconds
+time: 37.648s, sent: 869 msg/s, confirmed: 869 msg/s, nacked: 0 msg/s, received: 24101 msg/s, min/avg/max latency: 15168944/16528503/21559896 microseconds
+time: 38.648s, sent: 2771 msg/s, confirmed: 2771 msg/s, nacked: 0 msg/s, received: 33984 msg/s, min/avg/max latency: 10821712/16059790/21077195 microseconds
+time: 39.648s, sent: 4029 msg/s, confirmed: 4029 msg/s, nacked: 0 msg/s, received: 34240 msg/s, min/avg/max latency: 6081183/14415330/18637462 microseconds
+time: 40.649s, sent: 902 msg/s, confirmed: 902 msg/s, nacked: 0 msg/s, received: 25946 msg/s, min/avg/max latency: 6703536/14068410/15756462 microseconds
+time: 41.650s, sent: 522 msg/s, confirmed: 522 msg/s, nacked: 0 msg/s, received: 18915 msg/s, min/avg/max latency: 8007452/14064085/16090113 microseconds
+time: 42.650s, sent: 823 msg/s, confirmed: 823 msg/s, nacked: 0 msg/s, received: 20349 msg/s, min/avg/max latency: 6108387/14330619/16399850 microseconds
+time: 43.650s, sent: 802 msg/s, confirmed: 802 msg/s, nacked: 0 msg/s, received: 15469 msg/s, min/avg/max latency: 6365706/14506967/16614007 microseconds
+time: 44.650s, sent: 385 msg/s, confirmed: 385 msg/s, nacked: 0 msg/s, received: 28117 msg/s, min/avg/max latency: 7648138/14722058/17075395 microseconds
+time: 45.650s, sent: 1621 msg/s, confirmed: 1621 msg/s, nacked: 0 msg/s, received: 25377 msg/s, min/avg/max latency: 8374050/13986718/17587555 microseconds
+time: 46.751s, sent: 578 msg/s, confirmed: 578 msg/s, nacked: 0 msg/s, received: 18353 msg/s, min/avg/max latency: 9175885/13390533/17594585 microseconds
+time: 47.751s, sent: 963 msg/s, confirmed: 963 msg/s, nacked: 0 msg/s, received: 22080 msg/s, min/avg/max latency: 10296746/13412361/17623314 microseconds
+time: 48.751s, sent: 730 msg/s, confirmed: 730 msg/s, nacked: 0 msg/s, received: 16378 msg/s, min/avg/max latency: 9435497/13134150/17340448 microseconds
+time: 49.751s, sent: 1267 msg/s, confirmed: 1267 msg/s, nacked: 0 msg/s, received: 22712 msg/s, min/avg/max latency: 10945683/13688564/17321173 microseconds
+time: 50.794s, sent: 891 msg/s, confirmed: 891 msg/s, nacked: 0 msg/s, received: 17214 msg/s, min/avg/max latency: 11690788/13331774/16897307 microseconds
+time: 51.794s, sent: 886 msg/s, confirmed: 886 msg/s, nacked: 0 msg/s, received: 20369 msg/s, min/avg/max latency: 12101449/14121833/16850068 microseconds
+time: 52.796s, sent: 754 msg/s, confirmed: 754 msg/s, nacked: 0 msg/s, received: 17851 msg/s, min/avg/max latency: 13284560/14306562/16824044 microseconds
+time: 53.797s, sent: 798 msg/s, confirmed: 885 msg/s, nacked: 0 msg/s, received: 16281 msg/s, min/avg/max latency: 11145888/14930482/17029901 microseconds
+time: 54.797s, sent: 1199 msg/s, confirmed: 1112 msg/s, nacked: 0 msg/s, received: 20091 msg/s, min/avg/max latency: 11345973/15741520/17399216 microseconds
+time: 55.797s, sent: 1026 msg/s, confirmed: 1026 msg/s, nacked: 0 msg/s, received: 19934 msg/s, min/avg/max latency: 12670628/16392864/17782522 microseconds
+time: 56.797s, sent: 1150 msg/s, confirmed: 1150 msg/s, nacked: 0 msg/s, received: 22376 msg/s, min/avg/max latency: 13461214/17109106/18436258 microseconds
+time: 57.797s, sent: 704 msg/s, confirmed: 704 msg/s, nacked: 0 msg/s, received: 13481 msg/s, min/avg/max latency: 15170620/17714723/18923815 microseconds
+time: 58.797s, sent: 842 msg/s, confirmed: 842 msg/s, nacked: 0 msg/s, received: 23598 msg/s, min/avg/max latency: 15448832/17999807/20074975 microseconds
+time: 59.797s, sent: 1658 msg/s, confirmed: 1658 msg/s, nacked: 0 msg/s, received: 35604 msg/s, min/avg/max latency: 10657409/17290805/20627458 microseconds
+time: 60.797s, sent: 1145 msg/s, confirmed: 1145 msg/s, nacked: 0 msg/s, received: 29313 msg/s, min/avg/max latency: 11542953/16599872/21178830 microseconds
+time: 61.797s, sent: 6.0 msg/s, confirmed: 1018 msg/s, nacked: 0 msg/s, received: 20057 msg/s, min/avg/max latency: 12734667/16241972/21239968 microseconds
+time: 62.797s, sent: 4.0 msg/s, confirmed: 1302 msg/s, nacked: 0 msg/s, received: 23868 msg/s, min/avg/max latency: 14003350/15978150/20629859 microseconds
+time: 63.849s, sent: 3.8 msg/s, confirmed: 788 msg/s, nacked: 0 msg/s, received: 24670 msg/s, min/avg/max latency: 13923959/15461375/20197898 microseconds
+time: 64.849s, sent: 6.0 msg/s, confirmed: 2169 msg/s, nacked: 0 msg/s, received: 26856 msg/s, min/avg/max latency: 13388371/15590798/19843795 microseconds
+time: 65.849s, sent: 0 msg/s, confirmed: 479 msg/s, nacked: 0 msg/s, received: 21988 msg/s, min/avg/max latency: 13287586/14864845/19272195 microseconds
+time: 66.849s, sent: 0 msg/s, confirmed: 677 msg/s, nacked: 0 msg/s, received: 19269 msg/s, min/avg/max latency: 13255249/14729861/19401541 microseconds
+time: 67.849s, sent: 0 msg/s, confirmed: 1597 msg/s, nacked: 0 msg/s, received: 22686 msg/s, min/avg/max latency: 12896574/14500135/18683878 microseconds
+time: 68.883s, sent: 0 msg/s, confirmed: 467 msg/s, nacked: 0 msg/s, received: 19042 msg/s, min/avg/max latency: 12970595/14409203/19027479 microseconds
+time: 69.883s, sent: 0 msg/s, confirmed: 1124 msg/s, nacked: 0 msg/s, received: 16889 msg/s, min/avg/max latency: 12842385/14387730/18992720 microseconds
+time: 70.883s, sent: 0 msg/s, confirmed: 478 msg/s, nacked: 0 msg/s, received: 15597 msg/s, min/avg/max latency: 9316414/14649731/19339957 microseconds
+time: 72.026s, sent: 0 msg/s, confirmed: 1300 msg/s, nacked: 0 msg/s, received: 16379 msg/s, min/avg/max latency: 9533063/15148146/19071971 microseconds
+time: 73.026s, sent: 0 msg/s, confirmed: 1127 msg/s, nacked: 0 msg/s, received: 20797 msg/s, min/avg/max latency: 13145315/14830012/18669705 microseconds
+time: 74.026s, sent: 0 msg/s, confirmed: 572 msg/s, nacked: 0 msg/s, received: 27408 msg/s, min/avg/max latency: 12068840/14525884/18753118 microseconds
+time: 75.026s, sent: 0 msg/s, confirmed: 1306 msg/s, nacked: 0 msg/s, received: 21505 msg/s, min/avg/max latency: 13580210/15164640/18440668 microseconds
+sending rate avg: 1029 msg/s
+recving rate avg: 20593 msg/s
